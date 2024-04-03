@@ -1,0 +1,721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dashboard2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dashboard2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Theme\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\calendar.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\calendar.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\calendar.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\calendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\color_2.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\color_2.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\custom.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\css\\semantic.min.css",
+      "PackagePath": "staticwebassets\\Theme\\css\\semantic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Theme\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\american-express.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\bg1.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\error.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\error.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g1.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g10.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g11.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g12.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g13.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g14.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g15.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g16.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g2.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g3.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g4.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g5.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g6.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g7.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g8.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\g9.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\login_image.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\login_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\map_icon.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\map_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\mastercard.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\msg1.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\msg1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\msg2.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\msg2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\msg3.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\msg3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\msg4.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\msg4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\msg5.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\msg5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\pattern.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\pattern_h.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\pattern_h.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\paypal.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\user_img.jpg",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\user_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\layout_img\\visa.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\layout_img\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\logo\\logo_black.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\logo\\logo_black.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\images\\logo\\logo_icon.png",
+      "PackagePath": "staticwebassets\\Theme\\images\\logo\\logo_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\analyser.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\analyser.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\animate.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\animate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Theme\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\calendar.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\calendar.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\calendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\chart_custom_style1.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\chart_custom_style1.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\chart_custom_style2.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\chart_custom_style2.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\custom_chart.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\custom_chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\semantic.min.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\semantic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\settings.html",
+      "PackagePath": "staticwebassets\\Theme\\js\\settings.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\js\\utils.js",
+      "PackagePath": "staticwebassets\\Theme\\js\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\Theme\\style.css",
+      "PackagePath": "staticwebassets\\Theme\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\Dashboard2App\\Dashboard2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dashboard2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dashboard2.props",
+      "PackagePath": "build\\Dashboard2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dashboard2.props",
+      "PackagePath": "buildMultiTargeting\\Dashboard2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dashboard2.props",
+      "PackagePath": "buildTransitive\\Dashboard2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
